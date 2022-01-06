@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Happy Birthday Kotlin</string>
     <string name="happy_birthday_text">Happy Birthday, Kotlin!</string>
     <string name="signature_text">From Priyanshu.</string>
 </resources>
